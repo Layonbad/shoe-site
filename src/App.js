@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { Nav } from './components';
 
 const App = () => {
   return (
