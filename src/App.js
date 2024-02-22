@@ -1,6 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
 import { Nav } from './components';
+import {
+  CustomerReviews,
+  Footer,
+  Hero,
+  PopularProducts,
+  Services,
+  SpecialOffer,
+  Subscribe,
+  SuperQuality,
+} from "./sections";
 
 const App = () => {
   return (
